@@ -60,4 +60,4 @@ while True:
         star.draw()
 
     pygame.display.flip()
-    clock.tick(50)
+    clock.tick(500)
